@@ -39,3 +39,4 @@ class Timer extends React.Component {
 }
 
 root.render(<Timer />);
+final
